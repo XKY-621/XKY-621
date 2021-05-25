@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @XKY-621
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning react.js
