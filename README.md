@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @XKY-621
+- 👋 Hi, I’m Loïc !
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning react.js
+- 🏗 I’m currently building an app called Treeter in order to learn new technologies
